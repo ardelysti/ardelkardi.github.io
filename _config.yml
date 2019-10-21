@@ -1,13 +1,13 @@
 # Site settings
 title:        "Ardelysti"
-description:  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolor"
+description:  "Hello, my name is Ardelysti Kardi and I am a Computer Science Sophomore at University of Illinois Urbana--Champaign. Welcome to my website!"
 baseurl:      "" # the subpath of your site, e.g. /blog/
 url:          "http://yourdomain.com" # the base hostname & protocol for your site
 permalink:    /:year/:title
-github:       "yourusername"
-twitter:      "yourusername"
-email:        "mail@example.com"
-disqus-id:    "example" #leave blank if you dont want comments.
+github:       "ardelysti"
+twitter:      "N/A"
+email:        "pnkardi2@illinois.com"
+disqus-id:    "" #leave blank if you dont want comments.
 
 # Build settings
 markdown:     kramdown
