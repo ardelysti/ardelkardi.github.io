@@ -2,7 +2,7 @@
 title:        "Ardelysti Kardi"
 description:  "Hello, my name is Ardelysti Kardi and I am a Computer Science Sophomore at University of Illinois Urbana--Champaign. Welcome to my website!"
 baseurl:      "" # the subpath of your site, e.g. /blog/
-url:          "http://ardelysti.kardi.com" # the base hostname & protocol for your site
+url:          "http://ardelysti_kardi.com" # the base hostname & protocol for your site
 permalink:    /:year/:title
 github:       "ardelysti"
 twitter:      "N/A"
