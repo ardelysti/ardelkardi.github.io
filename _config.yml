@@ -5,7 +5,7 @@ baseurl:      "" # the subpath of your site, e.g. /blog/
 url:          "http://ardelysti_kardi.com" # the base hostname & protocol for your site
 permalink:    /:year/:title
 github:       "ardelysti"
-twitter:      "N/A"
+linkedin:      "ardelysti-kardi-313185193"
 email:        "pnkardi2@illinois.com"
 disqus-id:    "" #leave blank if you dont want comments.
 
